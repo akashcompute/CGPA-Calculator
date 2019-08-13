@@ -1,0 +1,269 @@
+# GUIBUILDER FILE Build 146
+# Created: 2018-10-21 11:02:48 by GUI Builder Build 146
+language tkinter 8.4
+widget {Tk frame} f {
+	geometry min_column {143 147 148 40 40}
+	geometry min_row {84 42 40 36 39}
+	geometry pad_column {0 0 0 0 0}
+	geometry pad_row {0 0 0 0 0}
+	geometry resize_column {0 0 0 0 0}
+	geometry resize_row {0 0 0 0 3}
+	geometry weight_column {0 0 0 0 0}
+	geometry weight_row {0 0 0 0 1}
+	data GROUP Tk
+	data ID {}
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 0
+}
+widget {Tk frame} _frame_1 {
+	configure -background #ffffff
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 2
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_1
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk label} _label_1 {
+	configure -activebackground #ffffff
+	configure -background #ffffff
+	configure -borderwidth 1
+	configure -cursor dotbox
+	configure -font {{MS Sans Serif} 24 bold}
+	configure -image {Screenshot (115).gif}
+	configure -text {CGPA Calculator}
+	geometry -column 1
+	geometry -columnspan 4
+	geometry -row 1
+	geometry -rowspan 2
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _label_1
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_3 {
+	configure -activebackground #ffffff
+	configure -background #ffffff
+	configure -borderwidth 0
+	configure -cursor arrow
+	configure -image lpu.gif
+	configure -text _label_3
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _label_3
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_4 {
+	configure -activebackground #feebcd
+	configure -activeforeground #ff0033
+	configure -background #feebcd
+	configure -font {{MS Sans Serif} 13 bold italic}
+	configure -foreground #ff0033
+	configure -text {¬© copyright protected 2018-2019}
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 5
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _label_4
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk button} _button_2 {
+	configure -activebackground #c0c5fe
+	configure -background #c0c5fe
+	configure -borderwidth 5
+	configure -cursor hand2
+	configure -font {{Leelawadee UI} 10 bold}
+	configure -text Login
+	geometry -column 2
+	geometry -columnspan 1
+	geometry -row 5
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID login
+	data MASTER {}
+	data TYPE {Tk button}
+}
+widget {Tk button} _button_3 {
+	configure -activebackground #c0c5fe
+	configure -background #c0c5fe
+	configure -borderwidth 5
+	configure -cursor hand2
+	configure -font {{Leelawadee UI} 10 bold}
+	configure -text {New User}
+	geometry -column 3
+	geometry -columnspan 1
+	geometry -row 5
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID newuser
+	data MASTER {}
+	data TYPE {Tk button}
+}
+widget {Tk label} _label_2 {
+	configure -activebackground #fff4d2
+	configure -background #fff4d2
+	configure -borderwidth 0
+	configure -font {{MS Sans Serif} 14 bold}
+	configure -text {Ì†ΩÌ≤Æ Ì†ΩÌ≤Æ Ì†ΩÌ≤Æ This project is based on ten (10) point scale as used by most  Colleges of Education. 
+Academic excellence is measured using the Grade Point Average (GPA) and Cumulative Grade Point Average (CGPA).
+ So it is important that all students have insight on how to calculate their GPA & CGPA so as to be able
+ to evaluate their academic performance from time to time and improve themselves by the remarks provided.   Ì†ΩÌ≤Æ Ì†ΩÌ≤Æ Ì†ΩÌ≤Æ  
+}
+	geometry -column 1
+	geometry -columnspan 5
+	geometry -row 3
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _label_2
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk button} _button_1 {
+	configure -activebackground #c0c5fe
+	configure -background #c0c5fe
+	configure -borderwidth 5
+	configure -cursor hand2
+	configure -font {{Leelawadee UI} 10 bold}
+	configure -text About
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 5
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID about
+	data MASTER {}
+	data TYPE {Tk button}
+}
+widget {Tk button} _button_4 {
+	configure -activebackground #c0c5fe
+	configure -background #c0c5fe
+	configure -borderwidth 5
+	configure -cursor hand2
+	configure -font {{Leelawadee UI} 10 bold}
+	configure -text Exit
+	geometry -column 4
+	geometry -columnspan 1
+	geometry -row 5
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID exit
+	data MASTER {}
+	data TYPE {Tk button}
+}
+widget {Tk label} _label_5 {
+	configure -activebackground #fff4d2
+	configure -activeforeground #fb001a
+	configure -background #fff4d2
+	configure -font {{MS Sans Serif} 14 bold italic}
+	configure -foreground #fb001a
+	configure -text { Made with ‚ù§  by Himanshu Ì†ΩÌ±ÆÌ†ºÌøº , Akash Ì†ΩÌ±®Ì†ºÌøª‚Äç  , Mukul Ì†æÌ¥µÌ†ºÌøº }
+	geometry -column 1
+	geometry -columnspan 5
+	geometry -row 4
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _label_5
+	data MASTER {}
+	data TYPE {Tk label}
+}
+

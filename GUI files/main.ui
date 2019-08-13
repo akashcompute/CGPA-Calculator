@@ -1,0 +1,2868 @@
+# GUIBUILDER FILE Build 146
+# Created: 2018-10-27 00:55:25 by GUI Builder Build 146
+language tkinter 8.4
+widget {Tk frame} f {
+	geometry min_column {241 158 125 116 5 71 50 44 189}
+	geometry min_row {54 7 12 5 6 6 40 40 40 40 40 5 35 40 40 40 40 1}
+	geometry pad_column {0 0 0 0 0 0 0 0 0}
+	geometry pad_row {0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0}
+	geometry resize_column {1 3 3 3 1 1 1 0 0}
+	geometry resize_row {3 1 2 1 1 3 0 0 0 0 0 0 3 0 0 0 0 0}
+	geometry weight_column {0 1 1 1 0 0 0 0 0}
+	geometry weight_row {1 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0}
+	data GROUP Tk
+	data ID {}
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 0
+}
+widget {Tk labelframe} _labelframe_3 {
+	configure -background #fafdb3
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -foreground #000000
+	configure -text {Student Details}
+	geometry -column 1
+	geometry -columnspan 4
+	geometry -row 3
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column {14 17 56 138}
+	geometry min_row 40
+	geometry pad_column {0 0 0 0}
+	geometry pad_row 0
+	geometry resize_column {1 0 0 0}
+	geometry resize_row 0
+	geometry weight_column {0 0 0 0}
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _labelframe_3
+	data MASTER {}
+	data TYPE {Tk labelframe}
+	data level 1
+}
+widget {Tk frame} _frame_1 {
+	configure -background #ffffae
+	geometry -column 1
+	geometry -columnspan 4
+	geometry -row 4
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 68
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_1
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_2 {
+	configure -background #ffffb0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 6
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_2
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_3 {
+	configure -background #ffffb0
+	geometry -column 2
+	geometry -columnspan 1
+	geometry -row 6
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_3
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_4 {
+	configure -background #ffffb0
+	geometry -column 3
+	geometry -columnspan 1
+	geometry -row 6
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_4
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_5 {
+	configure -background #ffffb0
+	geometry -column 4
+	geometry -columnspan 1
+	geometry -row 6
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_5
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_6 {
+	configure -background #ffffb0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 7
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_6
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_7 {
+	configure -background #ffffb0
+	geometry -column 2
+	geometry -columnspan 1
+	geometry -row 7
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_7
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_8 {
+	configure -background #ffffb0
+	geometry -column 3
+	geometry -columnspan 1
+	geometry -row 7
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_8
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_9 {
+	configure -background #ffffb0
+	geometry -column 4
+	geometry -columnspan 1
+	geometry -row 7
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_9
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_10 {
+	configure -background #ffffb0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 8
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_10
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_11 {
+	configure -background #ffffb0
+	geometry -column 2
+	geometry -columnspan 1
+	geometry -row 8
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_11
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_12 {
+	configure -background #ffffb0
+	geometry -column 3
+	geometry -columnspan 1
+	geometry -row 8
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_12
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_13 {
+	configure -background #ffffb0
+	geometry -column 4
+	geometry -columnspan 1
+	geometry -row 8
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_13
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_14 {
+	configure -background #ffffb0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 9
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_14
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_15 {
+	configure -background #ffffb0
+	geometry -column 2
+	geometry -columnspan 1
+	geometry -row 9
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_15
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_16 {
+	configure -background #ffffb0
+	geometry -column 3
+	geometry -columnspan 1
+	geometry -row 9
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_16
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_17 {
+	configure -background #ffffb0
+	geometry -column 4
+	geometry -columnspan 1
+	geometry -row 9
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_17
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_18 {
+	configure -background #ffffb0
+	geometry -column 1
+	geometry -columnspan 2
+	geometry -row 10
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_18
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_20 {
+	configure -background #ffffb0
+	geometry -column 1
+	geometry -columnspan 4
+	geometry -row 11
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_20
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_24 {
+	configure -background #ffffa4
+	geometry -column 1
+	geometry -columnspan 4
+	geometry -row 12
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column {240 181 175 67}
+	geometry min_row 5
+	geometry pad_column {0 0 0 0}
+	geometry pad_row 0
+	geometry resize_column {1 0 0 3}
+	geometry resize_row 0
+	geometry weight_column {0 0 0 1}
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_24
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_22 {
+	configure -background #ffffa4
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 13
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_22
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_23 {
+	configure -background #ffffa4
+	geometry -column 2
+	geometry -columnspan 1
+	geometry -row 13
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_23
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_25 {
+	configure -background #ffffa4
+	geometry -column 3
+	geometry -columnspan 1
+	geometry -row 13
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_25
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_26 {
+	configure -background #ffffa4
+	geometry -column 4
+	geometry -columnspan 1
+	geometry -row 13
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_26
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_27 {
+	configure -background #ffffa4
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 14
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_27
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_28 {
+	configure -background #ffffa4
+	geometry -column 2
+	geometry -columnspan 1
+	geometry -row 14
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_28
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_29 {
+	configure -background #ffffa4
+	geometry -column 3
+	geometry -columnspan 1
+	geometry -row 14
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_29
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_30 {
+	configure -background #ffffa4
+	geometry -column 4
+	geometry -columnspan 1
+	geometry -row 14
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_30
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_32 {
+	configure -background #ffffa4
+	geometry -column 3
+	geometry -columnspan 1
+	geometry -row 15
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_32
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_33 {
+	configure -background #ffffa4
+	geometry -column 2
+	geometry -columnspan 1
+	geometry -row 15
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_33
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_34 {
+	configure -background #ffffa4
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 15
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_34
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_35 {
+	configure -background #ffffa4
+	geometry -column 1
+	geometry -columnspan 2
+	geometry -row 17
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_35
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_42 {
+	configure -background #ffffa4
+	geometry -column 4
+	geometry -columnspan 1
+	geometry -row 15
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_42
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_43 {
+	configure -background #ffffa4
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 16
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_43
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_44 {
+	configure -background #ffffa4
+	geometry -column 2
+	geometry -columnspan 1
+	geometry -row 16
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_44
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_45 {
+	configure -background #ffffa4
+	geometry -column 3
+	geometry -columnspan 1
+	geometry -row 16
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_45
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk frame} _frame_46 {
+	configure -background #ffffa4
+	geometry -column 4
+	geometry -columnspan 1
+	geometry -row 16
+	geometry -rowspan 1
+	geometry -sticky news
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _frame_46
+	data MASTER {}
+	data TYPE {Tk frame}
+	data level 1
+}
+widget {Tk label} _label_1 {
+	configure -activebackground #ffffff
+	configure -activeforeground #cccccc
+	configure -background #ffffff
+	configure -font {{MS Sans Serif} 9}
+	configure -foreground #cccccc
+	configure -image Screenshot_(117).gif
+	configure -justify right
+	configure -text _label_1
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 2
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_1
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_2 {
+	configure -activebackground #ff8f59
+	configure -background #ff8f59
+	configure -text {Ì†ΩÌ≤Æ Ì†ΩÌ≤Æ Ì†ΩÌ≤Æ This project is based on ten (10) point scale as used by most  Colleges of Education. 
+Academic excellence is measured using the Grade Point Average (GPA) and Cumulative Grade Point Average (CGPA).
+ So it is important that all students have insight on how to calculate their GPA & CGPA so as to be able
+ to evaluate their academic performance from time to time and improve themselves by the remarks provided.   Ì†ΩÌ≤Æ Ì†ΩÌ≤Æ Ì†ΩÌ≤Æ }
+	geometry -column 2
+	geometry -columnspan 8
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_2
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_3 {
+	configure -activebackground #c89191
+	configure -background #c89191
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text {Before proceeding kindly see the instructions which on rightmost corner, will be overwritten later by remarks afte calculating CGPA.}
+	geometry -column 2
+	geometry -columnspan 8
+	geometry -row 2
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_3
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_5 {
+	configure -activebackground #fafdb3
+	configure -background #fafdb3
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text Name:
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky e
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_5
+	data MASTER _labelframe_3
+	data TYPE {Tk label}
+}
+widget {Tk entry} _entry_1 {
+	configure -width 25
+	geometry -column 2
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID name
+	data MASTER _labelframe_3
+	data TYPE {Tk entry}
+}
+widget {Tk label} _label_6 {
+	configure -activebackground #fafdb3
+	configure -background #fafdb3
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text {    Registration number :}
+	geometry -column 3
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky e
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_6
+	data MASTER _labelframe_3
+	data TYPE {Tk label}
+}
+widget {Tk entry} _entry_2 {
+	configure -width 25
+	geometry -column 4
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID regno
+	data MASTER _labelframe_3
+	data TYPE {Tk entry}
+}
+widget {Tk label} _label_10 {
+	configure -activebackground #ffffff
+	configure -background #ffffff
+	configure -image Screenshot_(119).gif
+	configure -text _label_10
+	geometry -column 8
+	geometry -columnspan 2
+	geometry -row 3
+	geometry -rowspan 2
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_10
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_12 {
+	configure -activebackground #ffffae
+	configure -activeforeground #ff0000
+	configure -background #ffffae
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -foreground #ff0000
+	configure -text { First Semester :}
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky w
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_12
+	data MASTER _frame_1
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_13 {
+	configure -activebackground #b87070
+	configure -background #b87070
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text {Course Title}
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 5
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_13
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_14 {
+	configure -activebackground #b87070
+	configure -background #b87070
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text {Course Code}
+	geometry -column 2
+	geometry -columnspan 1
+	geometry -row 5
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_14
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_16 {
+	configure -activebackground #b87070
+	configure -background #b87070
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text Credit
+	geometry -column 3
+	geometry -columnspan 1
+	geometry -row 5
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_16
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_20 {
+	configure -activebackground #b87070
+	configure -background #b87070
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text {Grade Obtained}
+	geometry -column 4
+	geometry -columnspan 1
+	geometry -row 5
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_20
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk entry} _entry_4 {
+	configure -justify center
+	configure -width 25
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstsub1
+	data MASTER _frame_2
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_5 {
+	configure -justify center
+	configure -width 10
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstcourse1
+	data MASTER _frame_3
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_6 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstcredit1
+	data MASTER _frame_4
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_7 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstgrade1
+	data MASTER _frame_5
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_8 {
+	configure -justify center
+	configure -width 25
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstsub2
+	data MASTER _frame_6
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_9 {
+	configure -justify center
+	configure -width 10
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstcourse2
+	data MASTER _frame_7
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_10 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstcredit2
+	data MASTER _frame_8
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_11 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstgrade2
+	data MASTER _frame_9
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_12 {
+	configure -justify center
+	configure -width 25
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstsub3
+	data MASTER _frame_10
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_13 {
+	configure -justify center
+	configure -width 10
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstcourse3
+	data MASTER _frame_11
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_14 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstcredit3
+	data MASTER _frame_12
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_15 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstgrade3
+	data MASTER _frame_13
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_16 {
+	configure -justify center
+	configure -width 25
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstsub4
+	data MASTER _frame_14
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_17 {
+	configure -justify center
+	configure -width 10
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstcourse4
+	data MASTER _frame_15
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_18 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstcredit4
+	data MASTER _frame_16
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_19 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firstgrade4
+	data MASTER _frame_17
+	data TYPE {Tk entry}
+}
+widget {Tk button} _button_1 {
+	configure -activebackground #c4c4ff
+	configure -background #c4c4ff
+	configure -borderwidth 5
+	configure -cursor hand2
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text {Calculate TGPA}
+	geometry -column 3
+	geometry -columnspan 1
+	geometry -row 10
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firsttgpa
+	data MASTER {}
+	data TYPE {Tk button}
+}
+widget {Tk label} _label_21 {
+	configure -activebackground #ffffb0
+	configure -activeforeground #ff0000
+	configure -background #ffffb0
+	configure -font {{MS Sans Serif} 17 bold}
+	configure -foreground #ff0000
+	configure -text 0
+	geometry -column 4
+	geometry -columnspan 1
+	geometry -row 10
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID firsttgpavalue
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_22 {
+	configure -activebackground #b66b6b
+	configure -background #b66b6b
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text Grade
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 5
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_22
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_24 {
+	configure -activebackground #b66b6b
+	configure -background #b66b6b
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text {Grade Point}
+	geometry -column 6
+	geometry -columnspan 2
+	geometry -row 5
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_24
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_25 {
+	configure -activebackground #d7ffd7
+	configure -background #d7ffd7
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text {O (Outstanding)}
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 6
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_25
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_39 {
+	configure -activebackground #ffffae
+	configure -activeforeground #ff0000
+	configure -background #ffffae
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -foreground #ff0000
+	configure -text { Second Semester :}
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky w
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_39
+	data MASTER _frame_20
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_47 {
+	configure -activebackground #d7ffd7
+	configure -background #d7ffd7
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text 10
+	geometry -column 6
+	geometry -columnspan 2
+	geometry -row 6
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_47
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_48 {
+	configure -activebackground #d7ffd7
+	configure -background #d7ffd7
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text A+
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 7
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_48
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_49 {
+	configure -activebackground #d7ffd7
+	configure -background #d7ffd7
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text 9
+	geometry -column 6
+	geometry -columnspan 2
+	geometry -row 7
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_49
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_50 {
+	configure -activebackground #d7ffd7
+	configure -background #d7ffd7
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text A
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 8
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_50
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_51 {
+	configure -activebackground #d7ffd7
+	configure -background #d7ffd7
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text 8
+	geometry -column 6
+	geometry -columnspan 2
+	geometry -row 8
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_51
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_52 {
+	configure -activebackground #d7ffd7
+	configure -background #d7ffd7
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text B+
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 9
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_52
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_53 {
+	configure -activebackground #d7ffd7
+	configure -background #d7ffd7
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text 7
+	geometry -column 6
+	geometry -columnspan 2
+	geometry -row 9
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_53
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_54 {
+	configure -activebackground #d7ffd7
+	configure -background #d7ffd7
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text B
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 10
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_54
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_55 {
+	configure -activebackground #d7ffd7
+	configure -background #d7ffd7
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text 6
+	geometry -column 6
+	geometry -columnspan 2
+	geometry -row 10
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_55
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_56 {
+	configure -activebackground #d2ffd2
+	configure -background #d2ffd2
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text C+
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 11
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_56
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_57 {
+	configure -activebackground #d2ffd2
+	configure -background #d2ffd2
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text 5
+	geometry -column 6
+	geometry -columnspan 2
+	geometry -row 11
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_57
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_58 {
+	configure -activebackground #d2ffd2
+	configure -background #d2ffd2
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text C
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 12
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_58
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_59 {
+	configure -activebackground #d2ffd2
+	configure -background #d2ffd2
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text 4
+	geometry -column 6
+	geometry -columnspan 2
+	geometry -row 12
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_59
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_11 {
+	configure -activebackground #b87070
+	configure -background #b87070
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text {Course Title}
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_11
+	data MASTER _frame_24
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_15 {
+	configure -activebackground #b87070
+	configure -background #b87070
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text {Course Code}
+	geometry -column 2
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_15
+	data MASTER _frame_24
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_17 {
+	configure -activebackground #b87070
+	configure -background #b87070
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text Credit
+	geometry -column 3
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_17
+	data MASTER _frame_24
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_18 {
+	configure -activebackground #b87070
+	configure -background #b87070
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text {Grade Obtained}
+	geometry -column 4
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_18
+	data MASTER _frame_24
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_4 {
+	configure -activebackground #d2ffd2
+	configure -background #d2ffd2
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text {E (Reappear)}
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 13
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_4
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_8 {
+	configure -activebackground #d2ffd2
+	configure -background #d2ffd2
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text {G (Backlog)}
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 15
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_8
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_9 {
+	configure -activebackground #d2ffd2
+	configure -background #d2ffd2
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text {  I (Result Incomplete)}
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 16
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_9
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_19 {
+	configure -activebackground #d2ffd2
+	configure -background #d2ffd2
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text {F (Fail)}
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 14
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_19
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_26 {
+	configure -activebackground #d2ffd2
+	configure -background #d2ffd2
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text 0
+	geometry -column 6
+	geometry -columnspan 2
+	geometry -row 13
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_26
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_27 {
+	configure -activebackground #d2ffd2
+	configure -background #d2ffd2
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text 0
+	geometry -column 6
+	geometry -columnspan 2
+	geometry -row 14
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_27
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_28 {
+	configure -activebackground #d2ffd2
+	configure -background #d2ffd2
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text 0
+	geometry -column 6
+	geometry -columnspan 2
+	geometry -row 15
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_28
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_29 {
+	configure -activebackground #d2ffd2
+	configure -background #d2ffd2
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -padx 0
+	configure -pady 0
+	configure -text 0
+	geometry -column 6
+	geometry -columnspan 2
+	geometry -row 16
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID _label_29
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk button} _button_2 {
+	configure -activebackground #b9b9ff
+	configure -background #b9b9ff
+	configure -borderwidth 5
+	configure -cursor hand2
+	configure -font {{MS Sans Serif} 5 bold}
+	configure -text {Calculate TGPA}
+	geometry -column 3
+	geometry -columnspan 1
+	geometry -row 17
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID secondtgpa
+	data MASTER {}
+	data TYPE {Tk button}
+}
+widget {Tk label} _label_30 {
+	configure -activebackground #ffffb3
+	configure -activeforeground #ff0000
+	configure -background #ffffb3
+	configure -font {{MS Sans Serif} 17 bold}
+	configure -foreground #ff0000
+	configure -text 0
+	geometry -column 4
+	geometry -columnspan 1
+	geometry -row 17
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID secondtgpavalue
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk entry} _entry_20 {
+	configure -justify center
+	configure -width 25
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID secondsub1
+	data MASTER _frame_22
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_21 {
+	configure -justify center
+	configure -width 10
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID secondcourse1
+	data MASTER _frame_23
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_22 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID secondcredit1
+	data MASTER _frame_25
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_23 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID secondgrade1
+	data MASTER _frame_26
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_24 {
+	configure -justify center
+	configure -width 25
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID secondsub2
+	data MASTER _frame_27
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_25 {
+	configure -justify center
+	configure -width 10
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID secondcourse2
+	data MASTER _frame_28
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_26 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID secondcredit2
+	data MASTER _frame_29
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_27 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID secondgrade2
+	data MASTER _frame_30
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_29 {
+	configure -justify center
+	configure -width 25
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID secondsub3
+	data MASTER _frame_34
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_30 {
+	configure -justify center
+	configure -width 10
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID secondcourse3
+	data MASTER _frame_33
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_31 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column {14 17 56 138}
+	geometry min_row {40 40}
+	geometry pad_column {0 0 0 0}
+	geometry pad_row {0 0}
+	geometry resize_column {1 0 0 0}
+	geometry resize_row {0 0}
+	geometry weight_column {0 0 0 0}
+	geometry weight_row {0 0}
+	data GROUP Tk
+	data ID secondcredit3
+	data MASTER _frame_32
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_33 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID secondgrade3
+	data MASTER _frame_42
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_34 {
+	configure -justify center
+	configure -width 25
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID secondsub4
+	data MASTER _frame_43
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_35 {
+	configure -justify center
+	configure -width 10
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID secondcourse4
+	data MASTER _frame_44
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_36 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID secondcredit4
+	data MASTER _frame_45
+	data TYPE {Tk entry}
+}
+widget {Tk entry} _entry_37 {
+	configure -justify center
+	configure -width 0
+	geometry -column 1
+	geometry -columnspan 1
+	geometry -row 1
+	geometry -rowspan 1
+	geometry -sticky ew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID secondgrade4
+	data MASTER _frame_46
+	data TYPE {Tk entry}
+}
+widget {Tk button} _button_3 {
+	configure -activebackground #ff6464
+	configure -background #ff6464
+	configure -borderwidth 5
+	configure -cursor hand2
+	configure -font {{Times New Roman Baltic} 17 bold}
+	configure -text {Calculate CGPA}
+	geometry -column 5
+	geometry -columnspan 3
+	geometry -row 17
+	geometry -rowspan 2
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID cgpa
+	data MASTER {}
+	data TYPE {Tk button}
+}
+widget {Tk label} _label_31 {
+	configure -activebackground #e0c2c2
+	configure -activeforeground #333333
+	configure -background #e0c2c2
+	configure -font {{MS Sans Serif} 10 bold italic}
+	configure -foreground #333333
+	configure -text {Made with ‚ù§  by Akash, Himanshu, Mukul					¬©2018-2019}
+	geometry -column 1
+	geometry -columnspan 4
+	geometry -row 18
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _label_31
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_7 {
+	configure -activebackground #c89191
+	configure -background #c89191
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text {PLease find your CGPA and Remarks and
+ take steps for improvements}
+	geometry -column 8
+	geometry -columnspan 2
+	geometry -row 5
+	geometry -rowspan 2
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _label_7
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk button} _button_4 {
+	configure -activebackground #c4c0fe
+	configure -background #c4c0fe
+	configure -borderwidth 5
+	configure -cursor hand2
+	configure -font {{Franklin Gothic Heavy} 12}
+	configure -text Open
+	geometry -column 5
+	geometry -columnspan 1
+	geometry -row 3
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID open
+	data MASTER {}
+	data TYPE {Tk button}
+}
+widget {Tk button} _button_5 {
+	configure -activebackground #c4c0fe
+	configure -background #c4c0fe
+	configure -borderwidth 5
+	configure -cursor hand2
+	configure -font {{Franklin Gothic Heavy} 12}
+	configure -text Save
+	geometry -column 6
+	geometry -columnspan 2
+	geometry -row 3
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID save
+	data MASTER {}
+	data TYPE {Tk button}
+}
+widget {Tk label} _label_23 {
+	configure -activebackground #c89191
+	configure -activeforeground #000000
+	configure -background #c89191
+	configure -font {{MS Gothic} 10 bold}
+	configure -foreground #000000
+	configure -text {Grade Point Consideration	}
+	geometry -column 5
+	geometry -columnspan 3
+	geometry -row 4
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _label_23
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_32 {
+	configure -activebackground #ceffff
+	configure -background #ceffff
+	configure -font {{Wide Latin} 17}
+	configure -text {Your
+ CGPA
+ is :}
+	geometry -column 8
+	geometry -columnspan 2
+	geometry -row 7
+	geometry -rowspan 3
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID _label_32
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_33 {
+	configure -activebackground #ceffff
+	configure -activeforeground #ff0000
+	configure -background #ceffff
+	configure -font {{MS Sans Serif} 17 bold}
+	configure -foreground #ff0000
+	configure -text 0
+	geometry -column 8
+	geometry -columnspan 2
+	geometry -row 10
+	geometry -rowspan 2
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID cgpavalue
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_34 {
+	configure -activebackground #ff2f2f
+	configure -background #ff2f2f
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -text Instructions
+	geometry -column 8
+	geometry -columnspan 2
+	geometry -row 12
+	geometry -rowspan 1
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID remark
+	data MASTER {}
+	data TYPE {Tk label}
+}
+widget {Tk label} _label_36 {
+	configure -activebackground #000000
+	configure -activeforeground #ffffff
+	configure -background #000000
+	configure -font {{MS Sans Serif} 8 bold}
+	configure -foreground #ffffff
+	configure -text {
+Follow the instructions
+*********
+1. Enter reg no and open, if found, name
+and all course details will be displayed, if not
+2. Enter all the details like name, reg no and
+course details, then Save.
+3. Enter credits of each subjects and grade
+obtained in that subject for each semester.
+4. Calculate TGPA for both semesters.
+5. Finally Press CGPA.
+6. CGPA is calculated using the formula given.
+The grade point considered is for LPU students.
+7. CGPA will be displayed along with helpful
+remarks which will guide students for their
+improvements in CGPA for better future.
+
+*********}
+	geometry -column 8
+	geometry -columnspan 2
+	geometry -row 13
+	geometry -rowspan 6
+	geometry -sticky nsew
+	geometry min_column 40
+	geometry min_row 40
+	geometry pad_column 0
+	geometry pad_row 0
+	geometry resize_column 0
+	geometry resize_row 0
+	geometry weight_column 0
+	geometry weight_row 0
+	data GROUP Tk
+	data ID remarkvalue
+	data MASTER {}
+	data TYPE {Tk label}
+}
+
