@@ -1,12 +1,7 @@
-## Final Screen
-![Main Screen](https://user-images.githubusercontent.com/42477627/90514247-8b743880-e17e-11ea-944a-1b65b1d03b73.png)
-<br> 
-
 # Project video
 
-<iframe width="1000" height="750"
-src="https://www.youtube.com/embed/u4TKp4RVuok">
-</iframe>
+[![](https://user-images.githubusercontent.com/42477627/90531393-a604dc80-e193-11ea-82c7-eaa4399647c3.png)](youtube.com/watch?v=u4TKp4RVuok "Click to Watch the video")
+
 
 # System Requirements
 * <b>Os :</b> Windows 10
