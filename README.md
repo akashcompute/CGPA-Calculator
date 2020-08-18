@@ -1,5 +1,5 @@
 
-# Project video link :  [Click me](https://tinyurl.com/CGPAcalculatorPython)
+# Project video link :  >>>  [Click me](https://tinyurl.com/CGPAcalculatorPython)  <<<
 ![Main Screen](https://user-images.githubusercontent.com/42477627/90514247-8b743880-e17e-11ea-944a-1b65b1d03b73.png)
 <br> 
 
@@ -15,12 +15,12 @@
 	```Use Pycharm (recommended)```
 3.	Initial Login Details
 ```
-		Username		Password
-		________________________
-		11702349	  	hello
-		11702345	 	password
-		1234			qwerty
-		11702347	  	asdfghjkl
+	Username		Password
+	________________________
+	11702349	  	hello
+	11702345	 	password
+	1234			qwerty
+	11702347	  	asdfghjkl
  ```
 4.	One can View the tables  and data in the database using SQLiteStudio. <br>
 	<b>To do so:</b><br>
