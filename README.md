@@ -1,7 +1,12 @@
-
-# Project video link :  >>>  [Click me](https://tinyurl.com/CGPAcalculatorPython)  <<<
+## Final Screen
 ![Main Screen](https://user-images.githubusercontent.com/42477627/90514247-8b743880-e17e-11ea-944a-1b65b1d03b73.png)
 <br> 
+
+# Project video
+
+<iframe width="1000" height="750"
+src="https://www.youtube.com/embed/u4TKp4RVuok">
+</iframe>
 
 # System Requirements
 * <b>Os :</b> Windows 10
