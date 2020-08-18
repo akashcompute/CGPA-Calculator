@@ -11,7 +11,7 @@
 # Instructions:
 
 1.	Download and extract the file from the drive.
-2.	Open and run "[Welcome.py](\Welcome.py)" <br>
+2.	Open and run "[Welcome.py](/Welcome.py)" <br>
 	```Use Pycharm (recommended)```
 3.	Initial Login Details
 ```
@@ -24,17 +24,17 @@
  ```
 4.	One can View the tables  and data in the database using SQLiteStudio. <br>
 	<b>To do so:</b><br>
-		Open "[database.db](\database.db)"
+		Open "[database.db](/database.db)"
 
 6.	One can View the GUI using <b>SpecTcl</b> <br>
 	[Download here](https://sourceforge.net/projects/spectcl/)<br>
 	and view all the GUI inside "GUI files" folder
 
-7.	One can refer to screenshots of the project inside "[Screenshots](\Screenshots)" folder.
+7.	One can refer to screenshots of the project inside "[Screenshots](/Screenshots)" folder.
 
 
 *****************************************************************************************************************
-For documentation open "[CGPA Calculator Python TKinter.pdf](\CGPA_Calculator_Python_TKinter.pdf)"
+For documentation open "[CGPA Calculator Python TKinter.pdf](/CGPA_Calculator_Python_TKinter.pdf)"
 
 # Screenshots
 ### Welcome Screen :
