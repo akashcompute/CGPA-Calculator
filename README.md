@@ -1,6 +1,6 @@
 # Project video
 
-[![](https://user-images.githubusercontent.com/42477627/90531393-a604dc80-e193-11ea-82c7-eaa4399647c3.png)](youtube.com/watch?v=u4TKp4RVuok "Click to Watch the video")
+[![](https://user-images.githubusercontent.com/42477627/90531393-a604dc80-e193-11ea-82c7-eaa4399647c3.png)](https://youtube.com/watch?v=u4TKp4RVuok "Click to Watch the video")
 
 
 # System Requirements
